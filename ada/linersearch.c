@@ -1,5 +1,5 @@
 #include <stdio.h> 
-
+#include <conio.h>
 int LINEAR_SEARCH(int a[], int n, int val) 
 { 
 	 int  i;
