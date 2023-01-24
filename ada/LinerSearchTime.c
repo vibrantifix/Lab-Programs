@@ -20,7 +20,7 @@ void main()
 	clock_t st,et;
 	double time_taken;
 
-		printf("Enter the number of elements in the array : \n");
+	printf("Enter the number of elements in the array : \n");
 	scanf("%d",&n);
 
 	printf("Enter the elements of the array : \n");
